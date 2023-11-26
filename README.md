@@ -1,2 +1,2 @@
 # MIT.AI
-book: Ad: Lander: 
+book:
